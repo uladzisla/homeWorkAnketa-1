@@ -1,2 +1,1 @@
-# homeWorkAnketa-1
-education
+# mentoring-simple-webpack-starter
